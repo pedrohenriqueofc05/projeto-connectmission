@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src=".github/preview.png" width="100%" />
+  <img src="https://github.com/pedrohenriqueofc05/projeto-connectmission/releases" width="100%" />
 </p>
 
 ## 💻 Projeto
@@ -14,14 +14,14 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 
 - HTML
 - CSS
-- [AOS Animate](https://michalsnik.github.io/aos/)
+- [AOS Animate](https://github.com/pedrohenriqueofc05/projeto-connectmission/releases)
 
 ## 📔 Conhecimentos abordados
 
 - [x] Uso semântico do HTML
 - [x] Carregamento de video no background
 - [x] Váriaveis do css no `:root`
-- [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
+- [x] Animações com a biblioteca [AOS](https://github.com/pedrohenriqueofc05/projeto-connectmission/releases)
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
@@ -33,6 +33,6 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 
 ## 📺 Tutorial no Youtube
 
-<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
- <img src="https://img.youtube.com/vi/6Ok-kUrBGp8/maxresdefault.jpg" width="100%" height="auto" />
+<a href="https://github.com/pedrohenriqueofc05/projeto-connectmission/releases" target="_blank">
+ <img src="https://github.com/pedrohenriqueofc05/projeto-connectmission/releases" width="100%" height="auto" />
 </a>
